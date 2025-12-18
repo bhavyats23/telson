@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1766051205,,"wq"
+|2,0,1766051549,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,30 +25,58 @@
 # Registers:
 
 # File marks:
-'0  4  0  ~/.gitignore
-|4,48,4,0,1766051205,"~/.gitignore"
-'1  1  22  ~/credential.xml
-|4,49,1,22,1766051070,"~/credential.xml"
-'2  1  19  ~/classpath.xml
-|4,50,1,19,1766051025,"~/classpath.xml"
-'3  4  10  ~/.gitignore
-|4,51,4,10,1766050750,"~/.gitignore"
-'4  2  22  ~/credentials.xml
-|4,52,2,22,1766050644,"~/credentials.xml"
-'5  1  20  ~/classpath.xml
-|4,53,1,20,1766050604,"~/classpath.xml"
-'6  1  25  ~/stting.xml
-|4,54,1,25,1766050568,"~/stting.xml"
-'7  1  28  ~/telson.java
-|4,55,1,28,1766049538,"~/telson.java"
+'0  1  18  ~/classpath.xml
+|4,48,1,18,1766051549,"~/classpath.xml"
+'1  1  23  ~/setting.xml
+|4,49,1,23,1766051527,"~/setting.xml"
+'2  4  0  ~/.gitignore
+|4,50,4,0,1766051205,"~/.gitignore"
+'3  1  22  ~/credential.xml
+|4,51,1,22,1766051070,"~/credential.xml"
+'4  1  19  ~/classpath.xml
+|4,52,1,19,1766051025,"~/classpath.xml"
+'5  4  10  ~/.gitignore
+|4,53,4,10,1766050750,"~/.gitignore"
+'6  2  22  ~/credentials.xml
+|4,54,2,22,1766050644,"~/credentials.xml"
+'7  1  20  ~/classpath.xml
+|4,55,1,20,1766050604,"~/classpath.xml"
+'8  1  20  ~/classpath.xml
+|4,56,1,20,1766050604,"~/classpath.xml"
+'9  1  25  ~/stting.xml
+|4,57,1,25,1766050568,"~/stting.xml"
 
 # Jumplist (newest first):
+-'  1  18  ~/classpath.xml
+|4,39,1,18,1766051549,"~/classpath.xml"
+-'  1  23  ~/setting.xml
+|4,39,1,23,1766051527,"~/setting.xml"
+-'  1  23  ~/setting.xml
+|4,39,1,23,1766051527,"~/setting.xml"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1766051205,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1766051205,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1766051205,"~/.gitignore"
 -'  4  0  ~/.gitignore
 |4,39,4,0,1766051205,"~/.gitignore"
 -'  1  22  ~/credential.xml
 |4,39,1,22,1766051070,"~/credential.xml"
 -'  1  22  ~/credential.xml
 |4,39,1,22,1766051070,"~/credential.xml"
+-'  1  22  ~/credential.xml
+|4,39,1,22,1766051070,"~/credential.xml"
+-'  1  22  ~/credential.xml
+|4,39,1,22,1766051070,"~/credential.xml"
+-'  1  22  ~/credential.xml
+|4,39,1,22,1766051070,"~/credential.xml"
+-'  1  22  ~/credential.xml
+|4,39,1,22,1766051070,"~/credential.xml"
+-'  1  22  ~/credential.xml
+|4,39,1,22,1766051070,"~/credential.xml"
+-'  1  22  ~/credential.xml
+|4,39,1,22,1766051070,"~/credential.xml"
 -'  1  19  ~/classpath.xml
 |4,39,1,19,1766051025,"~/classpath.xml"
 -'  1  19  ~/classpath.xml
@@ -57,6 +85,38 @@
 |4,39,1,19,1766051025,"~/classpath.xml"
 -'  1  19  ~/classpath.xml
 |4,39,1,19,1766051025,"~/classpath.xml"
+-'  1  19  ~/classpath.xml
+|4,39,1,19,1766051025,"~/classpath.xml"
+-'  1  19  ~/classpath.xml
+|4,39,1,19,1766051025,"~/classpath.xml"
+-'  1  19  ~/classpath.xml
+|4,39,1,19,1766051025,"~/classpath.xml"
+-'  1  19  ~/classpath.xml
+|4,39,1,19,1766051025,"~/classpath.xml"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1766050750,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1766050750,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1766050750,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1766050750,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1766050750,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1766050750,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1766050750,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1766050750,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1766050750,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1766050750,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1766050750,"~/.gitignore"
+-'  4  10  ~/.gitignore
+|4,39,4,10,1766050750,"~/.gitignore"
 -'  4  10  ~/.gitignore
 |4,39,4,10,1766050750,"~/.gitignore"
 -'  4  10  ~/.gitignore
@@ -75,6 +135,36 @@
 |4,39,1,0,1766050685,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1766050685,"~/.gitignore"
 -'  2  22  ~/credentials.xml
 |4,39,2,22,1766050644,"~/credentials.xml"
 -'  2  22  ~/credentials.xml
@@ -107,144 +197,72 @@
 |4,39,2,22,1766050644,"~/credentials.xml"
 -'  2  22  ~/credentials.xml
 |4,39,2,22,1766050644,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  0  ~/credentials.xml
-|4,39,1,0,1766050620,"~/credentials.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  20  ~/classpath.xml
-|4,39,1,20,1766050604,"~/classpath.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
--'  1  25  ~/stting.xml
-|4,39,1,25,1766050568,"~/stting.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
+-'  2  22  ~/credentials.xml
+|4,39,2,22,1766050644,"~/credentials.xml"
 
 # History of marks within files (newest to oldest):
+
+> ~/classpath.xml
+	*	1766051545	0
+	"	1	18
+	^	1	19
+	.	1	20
+	+	1	20
+
+> ~/setting.xml
+	*	1766051523	0
+	"	1	23
+	^	1	24
+	.	1	23
+	+	1	23
 
 > ~/.gitignore
 	*	1766051202	0
@@ -259,13 +277,6 @@
 	^	1	23
 	.	1	22
 	+	1	22
-
-> ~/classpath.xml
-	*	1766051019	0
-	"	1	19
-	^	1	20
-	.	1	20
-	+	1	20
 
 > ~/credentials.xml
 	*	1766050640	0
